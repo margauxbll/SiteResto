@@ -1761,7 +1761,7 @@ section[data-section=menu] {
 
 .probootstrap-heading .secondary-heading {
     text-transform: uppercase;
-    color: #fff;
+    color: rgb(238, 152, 152);
     margin: 0;
     padding: 0;
     letter-spacing: .05em;
